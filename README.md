@@ -1,2 +1,2 @@
 # ML_Notebooks
-A collection of ML notebooks for further reference.
+A collection of ML projects and notes, for further reference.
